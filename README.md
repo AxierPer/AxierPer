@@ -6,20 +6,20 @@
 
 ---
 
-👤 [Axier Perlaza]  
-📍 Tulua, Colombia  
-💼 Desarrollador de Software | Especialista en Backend  
+👤 [Axier Perlaza]
+📍 Tulua, Colombia
+💼 Software Developer | Backend Specialist
 
-🌱 Actualmente aprendiendo: Inteligencia Artificial y Manejo de APIs  
-💬 Pregúntame sobre: JavaScript, Python, Data Bases  
+🌱 Currently learning: Artificial Intelligence and API Management
+💬 Ask me about: JavaScript, Python, Databases 
 
-## Repositorios Destacados
+## Highlighted Repositories
 
-- [**Comparacion de Reportes**](https://github.com/AxierPer/comparacion_reportes.git): Una aplicacion sencilla de comparacion de reportes hecha en python, el cual tambien puede convertirse en aplicacion de escritorio.
+- [**Report Comparison**](https://github.com/AxierPer/comparacion_reportes.git): A simple report comparison application made in Python, which can also be converted into a desktop application.
   ![Lenguaje](https://img.shields.io/badge/Lenguaje-Python-blue)
   
-- [**Calculadora de Areas**](https://github.com/AxierPer/calculadora_areas.git): Una calculadora de areas, hecha en Go que me sirvio de practica para aprender como se estructuran las funciones.
+- [**Area Calculator**](https://github.com/AxierPer/calculadora_areas.git): An area calculator made in Go, which served as practice to learn how functions are structured.
   ![Lenguaje](https://img.shields.io/badge/Lenguaje-Golang-blue)
 
-- [**Proyecto con Rust**](https://github.com/AxierPer/Rust.git): Un proyecto hecho en Rust que me permitio comprender un poco el lenguaje, donde hice un CRUD solamente con Rust.
+- [**Project with Rust**](https://github.com/AxierPer/Rust.git): A project made in Rust that allowed me to understand the language a bit, where I built a CRUD using only Rust.
   ![Lenguaje](https://img.shields.io/badge/Lenguaje-Rust-blue)
