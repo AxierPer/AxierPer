@@ -68,8 +68,7 @@ A project made in Rust that allowed me to understand the language a bit, where I
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Axier%20Perlaza-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/axierperlaza)
-[![Twitter](https://img.shields.io/badge/Twitter-@AxierPer-blue?style=flat&logo=twitter)](https://twitter.com/AxierPer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Axier%20Perlaza-blue?style=flat&logo=linkedin)](www.linkedin.com/in/axier-perlaza-044866274)
 [![GitHub](https://img.shields.io/badge/GitHub-AxierPer-lightgrey?style=flat&logo=github)](https://github.com/AxierPer)
 
 ---
