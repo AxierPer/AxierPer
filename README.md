@@ -61,7 +61,7 @@ A project made in Rust that allowed me to understand the language a bit, where I
 
 ## 📈 GitHub Stats
 
-![AxierPer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxierPer&show_icons=true&theme=radical)
+![AxierPer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxierPer&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxierPer&layout=compact&theme=radical)
 
 ---
