@@ -7,7 +7,9 @@
 ---
 
 👤 [Axier Perlaza]
+
 📍 Tulua, Colombia
+
 💼 Software Developer | Backend Specialist
 
 🌱 Currently learning: Artificial Intelligence and API Management
