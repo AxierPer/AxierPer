@@ -66,7 +66,7 @@ Here are some projects I've contributed to:
 ## 📈 GitHub Stats
 
 ![AxierPer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxierPer&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxierPer&layout=compact&theme=tokionight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxierPer&layout=compact&theme=radical)
 
 ---
 
