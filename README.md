@@ -55,6 +55,14 @@ A project made in Rust that allowed me to understand the language a bit, where I
 
 ---
 
+## 🌐 Contributions
+
+Here are some projects I've contributed to:
+
+- [**Reporting Project**](https://github.com/xherpa/reportes_python): I was one of the creators of the code for the extraction and processing, also responsible for optimizations and updates.
+
+---
+
 ## 📈 GitHub Stats
 
 ![AxierPer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxierPer&show_icons=true&theme=tokyonight)
