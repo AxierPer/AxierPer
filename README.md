@@ -3,10 +3,6 @@
 📍 **Location:** Tulua, Colombia  
 💼 **Role:** Software Developer | Backend Specialist | Junior Data Analyst
 
-![Commits](https://img.shields.io/badge/Total%20Commits-102-blue) 
-![PRs](https://img.shields.io/badge/Total%20PRs-50-blue) 
-![Contributions](https://img.shields.io/badge/Contributed%20last%20year-3-lightgrey)
-
 ---
 
 ## 🌱 Currently Learning
