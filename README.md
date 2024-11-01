@@ -1,8 +1,7 @@
 # 👋 Hey, I'm Axier Perlaza (AxierPer) 👨‍💻
 
 📍 **Location:** Tulua, Colombia  
-💼 **Role:** Software Developer | Backend Specialist | Junior Data Analyst
-
+💼 **Role:** Software Developer | Backend Specialist | Future Data Engineer
 ---
 
 ## 🌱 Currently Learning
