@@ -2,6 +2,7 @@
 
 📍 **Location:** Tulua, Colombia  
 💼 **Role:** Software Developer | Backend Specialist | Future Data Engineer
+
 ---
 
 ## 🌱 Currently Learning
