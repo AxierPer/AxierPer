@@ -22,7 +22,7 @@
 
 | Category                   | Skills and Tools                                                                            |
 |----------------------------|---------------------------------------------------------------------------------------------|
-| **Languages**              | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) |
+| **Languages**              | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) |
 | **Specialized Languages**  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | **Data**                   | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
 | **Frameworks**             | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
@@ -34,24 +34,23 @@
 
 ## 🔥 Highlighted Repositories
 
-### [📊 Report Comparison](https://github.com/AxierPer/comparacion_reportes.git)
-A simple report comparison application made in Python, which can also be converted into a desktop application.
-
-![Python](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python)
+### [⚙️ Simple API](https://github.com/AxierPer/simple-api.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AxierPer&repo=simple-api&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### [🧮 Area Calculator](https://github.com/AxierPer/calculadora_areas.git)
-An area calculator made in Go, which served as practice to learn how functions are structured.
-
-![Go](https://img.shields.io/badge/Language-Go-blue?style=flat&logo=go)
+### [🧮 user manager API](https://github.com/AxierPer/user_manager_API.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AxierPer&repo=user_manager_API&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### [⚙️ Project with Rust](https://github.com/AxierPer/Rust.git)
-A project made in Rust that allowed me to understand the language a bit, where I built a CRUD using only Rust.
+### [⚙️ Blog Interface React](https://github.com/AxierPer/interface.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AxierPer&repo=interface&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Rust](https://img.shields.io/badge/Language-Rust-blue?style=flat&logo=rust)
+---
+
+### [📨 Chat Webosocket Go](https://github.com/AxierPer/interface.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AxierPer&repo=chat-app&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -65,8 +64,8 @@ Here are some projects I've contributed to:
 
 ## 📈 GitHub Stats
 
-![AxierPer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxierPer&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxierPer&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxierPer&hide_progress=false&theme=radical)
+![AxierPer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AxierPer&show_icons=true&theme=radical&rank_icon=github)
 
 ---
 
