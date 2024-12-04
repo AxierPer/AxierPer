@@ -35,22 +35,22 @@
 ## 🔥 Highlighted Repositories
 
 ### [⚙️ Simple API](https://github.com/AxierPer/simple-api.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AxierPer&repo=simple-api&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AxierPer&repo=simple-api&theme=radical)](https://github.com/AxierPer/simple-api.git)
 
 ---
 
 ### [🧮 user manager API](https://github.com/AxierPer/user_manager_API.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AxierPer&repo=user_manager_API&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AxierPer&repo=user_manager_API&theme=transparent)](https://github.com/AxierPer/user_manager_API.git)
 
 ---
 
 ### [⚙️ Blog Interface React](https://github.com/AxierPer/interface.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AxierPer&repo=interface&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AxierPer&repo=interface&theme=radical)](https://github.com/AxierPer/interface.git)
 
 ---
 
 ### [📨 Chat Webosocket Go](https://github.com/AxierPer/interface.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AxierPer&repo=chat-app&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AxierPer&repo=chat-app&theme=radical)](https://github.com/AxierPer/interface.git)
 
 ---
 
