@@ -50,8 +50,8 @@
 
 ---
 
-### [📨 Chat Webosocket Go](https://github.com/AxierPer/interface.git)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AxierPer&repo=chat-app&theme=radical)](https://github.com/AxierPer/interface.git)
+### [📨 Chat Webosocket Go](https://github.com/AxierPer/chat-app.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AxierPer&repo=chat-app&theme=radical)](https://github.com/AxierPer/chat-app.git)
 
 ---
 
